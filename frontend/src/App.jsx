@@ -2,6 +2,7 @@ function App() {
   return (
     <>
       <h1>Legal First Project</h1>
+      <h2>By Djiotsa Djouake Christian Daryn</h2>
       <p>
         The purpose of this document is to define the functional and
         non-functional requirements for the Legal First Aid platform. The
